@@ -1,3 +1,15 @@
+<h1 align="center">Tabular</h1>
+
+# Gradient Boosting
+
+# Factorization Machines
+
+# Neural Nets
+- [DeepFM](https://arxiv.org/abs/1703.04247)
+- [xDeepFM](https://arxiv.org/abs/1803.05170)
+- [TabNet](https://arxiv.org/abs/1908.07442)
+- [NODE](https://arxiv.org/abs/1909.06312): Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data
+
 <h1 align="center">Temporal Series</h1>
 
 # ➕ Feature engineering
