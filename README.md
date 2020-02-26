@@ -9,6 +9,11 @@
 - [xDeepFM](https://arxiv.org/abs/1803.05170)
 - [TabNet](https://arxiv.org/abs/1908.07442)
 - [NODE](https://arxiv.org/abs/1909.06312): Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data
+- [GrowNet](https://arxiv.org/abs/2002.07971): Gradient Boosting Neural Networks
+   - Shallow NNs as “weak learners” in gradient boosting framework
+   - Incorporates 2nd order stats, corrective step & dynamic boost rate to remedy pitfalls of gradient boosting tree
+   - Outperforms XGBoost
+
 
 <h1 align="center">Temporal Series</h1>
 
