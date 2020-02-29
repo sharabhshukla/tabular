@@ -24,14 +24,17 @@
 > Read [notes on matrix factorization machines](https://www.kaggle.com/residentmario/notes-on-matrix-factorization-machines)
 
 # Neural Nets
-- [DeepFM](https://arxiv.org/abs/1703.04247)
-- [xDeepFM](https://arxiv.org/abs/1803.05170)
-- [TabNet](https://arxiv.org/abs/1908.07442)
-- [NODE](https://arxiv.org/abs/1909.06312): Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data
-- [GrowNet](https://arxiv.org/abs/2002.07971): Gradient Boosting Neural Networks
+- [DeepFM](https://arxiv.org/abs/1703.04247) (Mar 2017)
+- [xDeepFM](https://arxiv.org/abs/1803.05170) (Mar 2018)
+- [Neural nets for Airbnb search](https://arxiv.org/abs/1810.09591) (Oct 2018)
+- [TabNet](https://arxiv.org/abs/1908.07442): Attentive Interpretable Tabular Learning (Aug 2019)
+- [NODE](https://arxiv.org/abs/1909.06312): Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data (Sep 2019)
+- [Graph NNs](https://arxiv.org/abs/2002.02046): DL on Relational DBs with Graph NNs (Feb 2020)
+- [GrowNet](https://arxiv.org/abs/2002.07971): Gradient Boosting Neural Networks (Feb 2020)
    - Shallow NNs as “weak learners” in gradient boosting framework
    - Incorporates 2nd order stats, corrective step & dynamic boost rate to remedy pitfalls of gradient boosting tree
    - Outperforms XGBoost
+
 
 
 <h1 align="center">Temporal Series</h1>
