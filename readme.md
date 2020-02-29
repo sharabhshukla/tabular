@@ -21,7 +21,8 @@
 
 # Factorization Machines
 
-> Read [notes on matrix factorization machines](https://www.kaggle.com/residentmario/notes-on-matrix-factorization-machines)
+- Read [notes on matrix factorization machines](https://www.kaggle.com/residentmario/notes-on-matrix-factorization-machines)
+- Code: [FM in Keras](https://github.com/jfpuget/LibFM_in_Keras)
 
 # Neural Nets
 - [DeepFM](https://arxiv.org/abs/1703.04247) (Mar 2017)
