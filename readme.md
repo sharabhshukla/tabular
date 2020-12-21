@@ -35,7 +35,7 @@
    - Shallow NNs as “weak learners” in gradient boosting framework
    - Incorporates 2nd order stats, corrective step & dynamic boost rate to remedy pitfalls of gradient boosting tree
    - Outperforms XGBoost
-
+- [TabTransformer](https://arxiv.org/abs/2012.06678): Tabular Data Modeling Using Contextual Embeddings (Dec 2020)
 
 
 <h1 align="center">Temporal Series</h1>
